@@ -12,7 +12,7 @@ main {
   color:darkslategrey;
   background-color:palegreen;
   text-align:center;
-  margin-top:2px;
+  padding:2px;
   display:inline;
 }
 

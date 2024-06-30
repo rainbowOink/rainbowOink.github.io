@@ -6,6 +6,14 @@ main {
   font-family:sans-serif;
 }
 
+.button {
+  width:70px;
+  height:20px;
+  border:5px solid darkgreen;
+  color:darkslategrey;
+  background-color:lightgreen;
+}
+
 h1 {
   color:navy;
   font-size:30;

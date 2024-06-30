@@ -42,3 +42,7 @@ p {
 a {
   color:darkgreeen;
 } 
+
+ul.a {
+  list-style-type:square;
+}

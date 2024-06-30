@@ -19,6 +19,7 @@ main {
 h1 {
   color:navy;
   font-size:30;
+  font-variant:small-caps;
   text-align:center;
   border-top:2px dotted dodgerblue;
   border-bottom:2px dotted dodgerblue;

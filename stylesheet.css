@@ -1,9 +1,11 @@
+body {
+  background:beige;
+  font-family:sans-serif;
+}
+
 main {
   width:1800px;
   height:700px;
-  padding:0px;
-  background:beige;
-  font-family:sans-serif;
 }
 
 .menu {
@@ -51,4 +53,8 @@ a {
 
 ul.a {
   list-style-type:square;
+}
+
+br {
+  border:3px solid darkgreen;
 }

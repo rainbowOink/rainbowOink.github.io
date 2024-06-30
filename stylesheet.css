@@ -1,6 +1,7 @@
 main {
   width:1800px;
   height:700px;
+  padding:0px;
   background:beige;
   font-family:sans-serif;
 }

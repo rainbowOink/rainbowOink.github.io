@@ -3,25 +3,25 @@ main {
   height:500px;
   padding:10px;
   background:lightgreen;
-  font-family:"Arial,sans-serif";
+  font-family:sans-serif;
 }
 
 h1 {
-  color:red;
+  color:navy;
   font-size:20;
   text-align:center;
   border-bottom: 1px dotted dodgerblue;
 }
 
 h2 {
-  color:blue;
+  color:darkolivegreen;
   font-weight:bold;
   font-size:18;
   text-align:left;
 }
 
 p {
-  color:black;
+  color:darkslategrey;
   font-size:15;
   text-align:left;
 }

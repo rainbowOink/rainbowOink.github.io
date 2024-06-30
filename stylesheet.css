@@ -11,7 +11,7 @@ main {
   height:30px;
   border:4px solid darkgreen;
   color:darkslategrey;
-  background-color:ivory;
+  background-color:palegreen;
   text-align:center;
   margin-top:2px;
   display:inline;
@@ -40,7 +40,7 @@ p {
 }
 
 a {
-  color:darkgreeen;
+  color:darkgreen;
 } 
 
 ul.a {

@@ -10,7 +10,7 @@ main {
 
 .menu {
   align:center;
-  border-bottom:2px dotted dodgerblue;
+  outline-bottom:2px dotted dodgerblue;
 }
 
 .button {

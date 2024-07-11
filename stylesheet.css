@@ -25,13 +25,16 @@ main {
   display:inline;
 }
 
+.heading {
+  border-top:2px dotted dodgerblue;
+  border-bottom:2px dotted dodgerblue;
+}
+
 h1 {
   color:navy;
   font-size:100;
   font-family:'Brush Script MT',cursive;
   text-align:center;
-  border-top:2px dotted dodgerblue;
-  border-bottom:2px dotted dodgerblue;
 }
 
 h2 {

@@ -9,6 +9,7 @@ main {
 }
 
 .menu {
+  width:100%;
   align:center;
   outline-bottom:2px dotted dodgerblue;
 }

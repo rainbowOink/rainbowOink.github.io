@@ -1,5 +1,5 @@
 body {
-  background:beige;
+  background:white;
   font-family:sans-serif;
 }
 
@@ -16,53 +16,54 @@ main {
 	display:inline;
 	width:150px;
 	height:30px;
-	color:darkslategrey;
-	background-color:palegreen;
+	color:#E76F51;
+	background-color:#E9C46A;
 	text-align:center;
 	padding:2px;
-	border:4px solid darkgreen;
+	border:4px solid #F4A261;
 }
 
 .heading {
-  border-bottom:2px dotted dodgerblue;
+  border-bottom:2px dotted #2A9D8F;
 }
 
 h1 {
-  color:navy;
+  color:#264653;
   font-size:100;
   font-family:'Brush Script MT',cursive;
   text-align:center;
 }
 
 h2 {
-  color:navy;
+  color:#264653;
   font-size:30;
   font-variant:small-caps;
   text-align:center;
 }
 
 h3 {
-  color:darkolivegreen;
+  color:#264653;
   font-weight:bold;
   font-size:24;
   text-align:left;
 }
 
 p {
-  color:darkslategrey;
+  color:#2A9D8F;
   font-size:20;
   text-align:left;
   margin-left:10px;
 }
 
 a {
-  color:darkgreen;
+  color:#E76F51;
 } 
 
 ul.a {
   list-style-type:square;
+  color:#2A9D8F;
 }
 
 .line {
-  border:3px solid darkgreen;
+  border:3px solid #264653;
 }

@@ -26,14 +26,21 @@ main {
 
 h1 {
   color:navy;
-  font-size:30;
-  font-variant:small-caps;
+  font-size:100;
+  font-family:caveat;
   text-align:center;
   border-top:2px dotted dodgerblue;
   border-bottom:2px dotted dodgerblue;
 }
 
 h2 {
+  color:navy;
+  font-size:30;
+  font-variant:small-caps;
+  text-align:center;
+}
+
+h3 {
   color:darkolivegreen;
   font-weight:bold;
   font-size:24;

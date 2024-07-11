@@ -11,6 +11,7 @@ main {
 .menu {
   float:right;
   outline-bottom:2px dotted dodgerblue;
+  margin-bottom:10px;
 }
 
 .button {
